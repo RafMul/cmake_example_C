@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../Library/silnia.h
+
+/home/rafal/cmake_example_C/Library/silnia.c
+silnia.h
+/home/rafal/cmake_example_C/Library/silnia.h
+
+/home/rafal/cmake_example_C/Library/silnia.h
+
+/home/rafal/cmake_example_C/test/silnia_test/UTest.c
+silnia.h
+/home/rafal/cmake_example_C/test/silnia_test/silnia.h
+

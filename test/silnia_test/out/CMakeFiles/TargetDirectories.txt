@@ -1,0 +1,4 @@
+/home/rafal/cmake_example_C/test/silnia_test/out/CMakeFiles/rebuild_cache.dir
+/home/rafal/cmake_example_C/test/silnia_test/out/CMakeFiles/edit_cache.dir
+/home/rafal/cmake_example_C/test/silnia_test/out/CMakeFiles/tdd_silnia_test.dir
+/home/rafal/cmake_example_C/test/silnia_test/out/CMakeFiles/test.dir

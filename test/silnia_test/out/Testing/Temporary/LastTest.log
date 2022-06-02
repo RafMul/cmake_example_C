@@ -1,0 +1,18 @@
+Start testing: Jun 02 16:54 CEST
+----------------------------------------------------------
+1/1 Testing: tests
+1/1 Test: tests
+Command: "/home/rafal/cmake_example_C/test/silnia_test/out/tdd_silnia_test"
+Directory: /home/rafal/cmake_example_C/test/silnia_test/out
+"tests" start time: Jun 02 16:54 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"tests" end time: Jun 02 16:54 CEST
+"tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 02 16:54 CEST
